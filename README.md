@@ -7,3 +7,4 @@ exFive and exSeven are both C++ Code but in wrong extension (.c), this is part o
 ![Praktikum 2-1](https://user-images.githubusercontent.com/40969170/176783942-c9b3cdca-b059-4441-a4c9-a4dec7c7b48c.jpg)
 ![Praktikum 2-2](https://user-images.githubusercontent.com/40969170/176783970-8d80f8db-ef6d-43b9-86d3-325d68cce38f.jpg)
 ![Praktikum 2-3](https://user-images.githubusercontent.com/40969170/176783996-097d2081-72ca-4e4c-bc8f-0db26c06926b.jpg)
+![Praktikum 2-4](https://user-images.githubusercontent.com/40969170/176784029-ed78bee1-0ea3-494c-bcca-81036c268e19.jpg)
