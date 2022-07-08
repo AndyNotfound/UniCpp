@@ -6,7 +6,7 @@
 
 using namespace std;
 int main(int argc, char * argcv[]) {
-  //clrscr();
+  
   char nama[20], jurusan[20], jenis[20], bonus[40];
   float jlh_tiket, harga_tiket, diskon, jlh_bayar;
   cout << "Nama Pembeli : ";
