@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(int argc, char *argv[]){
-	//clrscr()
+	
 	char nama[20],hadiah[20];
 	float pembelian,diskon,jml_bayar;
 	
