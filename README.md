@@ -16,3 +16,5 @@ This repository is an assignment for my university's C++ excercises, it's a simp
 ## Praktikum 3
 ![Praktikum 3 (1)_page-0001](https://user-images.githubusercontent.com/40969170/177908279-1786ae13-729d-4499-bb3a-4cb2e4e4b5aa.jpg)
 ![Praktikum 3 (1)_page-0002](https://user-images.githubusercontent.com/40969170/177908400-74ec54c6-71a0-47a6-a984-0b2ff5368e1a.jpg)
+![Praktikum 3 (1)_page-0003](https://user-images.githubusercontent.com/40969170/177908424-6230ee15-1c81-4d12-9ecb-6f97eb9c6e3d.jpg)
+![Praktikum 3 (1)_page-0004](https://user-images.githubusercontent.com/40969170/177908436-ddcc32b8-995e-4f2e-8b0d-176daefb5e51.jpg)
