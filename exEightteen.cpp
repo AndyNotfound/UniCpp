@@ -1,4 +1,3 @@
-//contoh penggunaan strcpy
 #include<stdio.h>
 #include<conio.h>
 #include<iostream>
