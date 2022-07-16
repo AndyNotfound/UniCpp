@@ -35,3 +35,5 @@ This repository is an assignment for my university's C++ excercises, it's a simp
 <h3 id="Praktikum4">Experiment Four</h3>
 
 ![Praktikum 4-1](https://user-images.githubusercontent.com/40969170/179357908-5bad8603-7d98-4272-a676-9e37a30aabd5.jpg)
+![Praktikum 4-2](https://user-images.githubusercontent.com/40969170/179357924-562976d3-4164-438a-8bc9-c10fbed0e75f.jpg)
+![Praktikum 4-3](https://user-images.githubusercontent.com/40969170/179357929-12b82596-d5f1-4080-9286-52c0a3110f77.jpg)
