@@ -7,6 +7,7 @@ This repository is an assignment for my university's C++ excercises, it's a simp
   <li><a href="#Praktikum2">Experiment Two</a></li>
   <li><a href="#Praktikum3">Experiment Three</a></li>
   <li><a href="#Praktikum4">Experiment Four</a></li>
+  <li><a href="#quiz">Quiz and Test</a></li>
 </ul>
 <br>
 <h3 id="Praktikum1">Experiment One</h3>
@@ -37,3 +38,8 @@ This repository is an assignment for my university's C++ excercises, it's a simp
 ![Praktikum 4-1](https://user-images.githubusercontent.com/40969170/179357908-5bad8603-7d98-4272-a676-9e37a30aabd5.jpg)
 ![Praktikum 4-2](https://user-images.githubusercontent.com/40969170/179357924-562976d3-4164-438a-8bc9-c10fbed0e75f.jpg)
 ![Praktikum 4-3](https://user-images.githubusercontent.com/40969170/179357929-12b82596-d5f1-4080-9286-52c0a3110f77.jpg)
+
+<h3 id="quiz">Quiz and Test</h3>
+
+![Praktikum 4-4](https://user-images.githubusercontent.com/40969170/179357245-e2b430e0-bac7-4588-b4cd-f6608ed28377.jpg)
+![QUIZ UAS lokal Pagi-1](https://user-images.githubusercontent.com/40969170/181791523-3775e7c7-faf3-4342-85b7-abc2c2eea1a9.jpg)
